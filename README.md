@@ -9,7 +9,7 @@ qing-markdown vue plugins
 ### 演示项目参考
 * [qing-markdown 演示项目](https://github.com/qinkaiyuan/qing-markdown#%E6%BC%94%E7%A4%BA%E9%A1%B9%E7%9B%AE)
 
-### npm 安装
+### npm 安装，vue-cli 方式
 ```bash
 vue add qing-markdown
 ```
